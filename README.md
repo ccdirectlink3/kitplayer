@@ -2,7 +2,7 @@
 
 Play as guest character Kit via swapping Lea's sprites to Kit. This mod does not change dialogue, cutscene sprites or face sprites at the moment. It is an incomplete mod, and there are still some animations that need polishing, or dedicated sprites for the given directions (most diagonal animations are missing).
 
-Installation instructions:
+## Installation instructions:
 1. Make sure you have CCLoader installed in the CrossCode folder. You can get CCLoader here https://github.com/CCDirectLink/CCLoader
 2. Click the green button that says "Clone or Download", then click "Download Zip"
 3. Open the downloaded zip folder
