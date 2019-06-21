@@ -19,3 +19,9 @@ Play as guest character Kit via swapping Lea's sprites to Kit. This mod does not
 ## Stretch goals:
 - Kit as a party member (might be a seperate mod)
 - Dialogue changes (will not cover translations)
+
+## Mod Compatibility
+
+### May Interfere. Non Breaking
+- Any mod that directly replaces Lea's sprites
+- Mods that modify the "severed-heads.png" in the CrossCode\assets\media\gui such as Qine mod
