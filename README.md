@@ -22,7 +22,7 @@ Play as guest character Kit via swapping Lea's sprites to Kit. This mod does not
 
 ## Mod Compatibility
 
-### Conflicts or Interferes. May break.
+### Conflicts or Interferes.
 - **Qine Mod**. CrossCode\assets\media\gui\severed-heads.png is conflicted. **Non-breaking** but Qine's head icon will be missing or Qine's mod will overwrite Kit's head icon.
 - Any mod that directly replaces Lea's sprites and/or CrossCode\assets\media\gui\menu.png
 
