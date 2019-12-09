@@ -1,4 +1,7 @@
 {
 	"name": "Kit Player",
+	"version": "0.1.1",
+	"description": "Swaps Lea's sprites to play as Kit. A sphereomancer fox.",
+	"homepage": "https://github.com/BountyXSnipe/kitplayer",
 	"main": "mod.js"
 }
