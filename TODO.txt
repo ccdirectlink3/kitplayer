@@ -1,0 +1,2 @@
+1. use custom character toolkit or at least the image patching system
+2. write a README with screenshots, potentially a gif
